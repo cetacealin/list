@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cetacealin.github.io/list/static/css/main.74ec77a9.chunk.css",
+    "main.js": "/cetacealin.github.io/list/static/js/main.54de7c5d.chunk.js",
+    "main.js.map": "/cetacealin.github.io/list/static/js/main.54de7c5d.chunk.js.map",
+    "runtime-main.js": "/cetacealin.github.io/list/static/js/runtime-main.155394dd.js",
+    "runtime-main.js.map": "/cetacealin.github.io/list/static/js/runtime-main.155394dd.js.map",
+    "static/js/2.d83c092b.chunk.js": "/cetacealin.github.io/list/static/js/2.d83c092b.chunk.js",
+    "static/js/2.d83c092b.chunk.js.map": "/cetacealin.github.io/list/static/js/2.d83c092b.chunk.js.map",
+    "static/js/3.17ab7f2f.chunk.js": "/cetacealin.github.io/list/static/js/3.17ab7f2f.chunk.js",
+    "static/js/3.17ab7f2f.chunk.js.map": "/cetacealin.github.io/list/static/js/3.17ab7f2f.chunk.js.map",
+    "index.html": "/cetacealin.github.io/list/index.html",
+    "static/css/main.74ec77a9.chunk.css.map": "/cetacealin.github.io/list/static/css/main.74ec77a9.chunk.css.map",
+    "static/js/2.d83c092b.chunk.js.LICENSE.txt": "/cetacealin.github.io/list/static/js/2.d83c092b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cetacealin.github.io/list/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.155394dd.js",
+    "static/js/2.d83c092b.chunk.js",
+    "static/css/main.74ec77a9.chunk.css",
+    "static/js/main.54de7c5d.chunk.js"
+  ]
+}
